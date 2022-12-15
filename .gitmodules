@@ -7,3 +7,8 @@
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
 	branch = 16.0
+
+[submodule "ABC-Strategie-GitHub/abc_x_ilmancoffee"]
+	path = ABC-Strategie-GitHub/abc_x_ilmancoffee
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_ilmancoffee.git
+	branch = 16.0
